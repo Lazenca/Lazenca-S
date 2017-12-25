@@ -14,11 +14,8 @@ Developed for cheating-detection
 * CheckSpeedHack.h - Speedhack Detection
 * CheckBinaryModification.h - Binary Modulation Detection
 
-## 2.Game Security Guide
-Site : http://www.greycheatinglab.com
-
-## 3.Lazenca A (iOS ver.)
+## 2.Lazenca A (iOS ver.)
 Site : [Lazenca A(ios ver.)](https://github.com/Lazenca/Lazenca-A-iOS)
 
-## 4.Lazenca A (AOS ver.)
+## 3.Lazenca A (AOS ver.)
 Site : [Lazenca A(aos ver.)](https://github.com/Lazenca/Lazenca-A-Andoird)
